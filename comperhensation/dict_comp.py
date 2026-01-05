@@ -1,0 +1,5 @@
+arr=[10,20,30,40,50]
+
+squares={num:num**2 for num in arr }
+
+print(squares)
