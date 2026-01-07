@@ -1,0 +1,9 @@
+[
+    {"roll":123,"name":"hari","gender":"male","course":"testing"},
+    {"roll":124,"name":"venu","gender":"male","course":"devops"},
+    {"roll":125,"name":"arun","gender":"male","course":"data science"},
+    {"roll":126,"name":"aardhra","gender":"female","course":"django"},
+    {"roll":127,"name":"anaswara","gender":"female","course":"testing"}
+    
+]
+
