@@ -106,9 +106,9 @@ class ExpenseTracker:
 expense_instance=ExpenseTracker()
 # expense_instance.create_table()
 # expense_instance.insert_value(title="fever",amount=1000,category="health")
-expense_instance.list_expense()
+# expense_instance.list_expense()
 # expense_instance.update_expense(id=2,title="ooty")
-expense_instance.delete_data(id=4)
+# expense_instance.delete_data(id=4)
 
 
 
