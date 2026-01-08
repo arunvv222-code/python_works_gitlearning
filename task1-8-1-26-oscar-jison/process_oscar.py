@@ -29,9 +29,9 @@ movie_bf_2000=[r.get("name") for r in data if int(r.get("released_year"))< 2000]
 
 #Q4. Find all movies whose runtime is greater than 150 minutes.
 
-# run_time=[r.get("name") for r in data if r.get("duration")>150]
+run_time=[r.get("name") for r in data if r.get("duration")>"150 min"]
 
-# print(run_time)
+print(run_time)
 
 #Q5.Create a list of movies where the director name starts with the letter “S”.
 
@@ -60,4 +60,4 @@ earliest_released=[r.get("name") for r in data if int(r.get("released_year"))==m
 
 result1=[r.get("name") for r in data if int(r.get("released_year"))>2015]
 
-print(result1)
+# print(result1)
